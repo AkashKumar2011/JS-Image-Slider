@@ -26,11 +26,11 @@ responsive-image-slider/
 ├── styles.css   </br>
 ├── scripts.js  </br>
 └── images/ </br>
-    ├── img1.jpg   </br>
-    ├── img2.jpg    </br>
-    ├── img3.jpg    </br>   
-    ├── img4.jpg    </br>
-    └── img5.jpg    </br>
+        ├── img1.jpg   </br>
+        ├── img2.jpg    </br>
+        ├── img3.jpg    </br> 
+        ├── img4.jpg    </br>
+        └── img5.jpg    </br>
 
 ---
 
