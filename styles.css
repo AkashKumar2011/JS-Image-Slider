@@ -41,7 +41,7 @@
     position: absolute;
     top: 50%;
     transform: translateY(-50%);
-    background: rgba(0, 0, 0, 0.4);
+    background: rgb(49 48 48 / 72%);
     color: #fff;
     border: none;
     font-size: 1rem;
