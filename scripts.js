@@ -15,7 +15,7 @@ const images = [
     sliderImg.style.opacity = 0;
     setTimeout(() => {
       sliderImg.src = images[index];
-      sliderImg.style.opacity = 0.1;
+      sliderImg.style.opacity = 0.9;
     }, 300);
   }
 
