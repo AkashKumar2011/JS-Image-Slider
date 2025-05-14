@@ -23,11 +23,8 @@ Place your image assets in an `images/` directory as shown:
 responsive-image-slider/
 
 ├── index.html
-
 ├── styles.css   
-
-├── scripts.js   
-
+├── scripts.js  
 └── images/
     ├── img1.jpg
     ├── img2.jpg
