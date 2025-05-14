@@ -50,7 +50,6 @@ You can also navigate manually using the left/right arrow buttons.
 
 ---
 
-## 🚀 Deploy the GitHub: 
-    
-    [Live Demo](https://akashkumar2011.github.io/JS-Image-Slider) 
+## 🚀 Deploy the GitHub:
+[Live Demo](https://akashkumar2011.github.io/JS-Image-Slider) 
 
