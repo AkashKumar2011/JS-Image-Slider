@@ -4,9 +4,6 @@
 
 A lightweight, responsive image slider built using pure HTML, CSS, and JavaScript. It features smooth transitions, auto-play functionality, and manual navigation using previous/next buttons. No external libraries or frameworks required.
 
-🔗 **GitHub Repository**: [https://github.com/AkashKumar2011/JS-Image-Slider](https://github.com/AkashKumar2011/JS-Image-Slider)  
-🚀 **Live Demo**: [https://akashkumar2011.github.io/JS-Image-Slider](https://akashkumar2011.github.io/JS-Image-Slider)
-
 ---
 
 ## ✨ Features
@@ -34,8 +31,6 @@ responsive-image-slider/
     ├── img4.jpg
     └── img5.jpg
 
-
-
 ---
 
 ## 📦 Installation
@@ -47,9 +42,15 @@ git clone https://github.com/AkashKumar2011/JS-Image-Slider.git
 
 ```
 
-
 ---
 
 ## 💡 Usage
 The slider will start on the first image and automatically cycle through every 3 seconds.
 You can also navigate manually using the left/right arrow buttons.
+
+---
+
+## 🚀 Deploy the GitHub: 
+    
+   *** [Live Demo](https://akashkumar2011.github.io/JS-Image-Slider) ***
+
