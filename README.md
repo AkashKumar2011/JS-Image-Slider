@@ -21,9 +21,13 @@ A lightweight, responsive image slider built using pure HTML, CSS, and JavaScrip
 Place your image assets in an `images/` directory as shown:
 
 responsive-image-slider/
+
 ├── index.html
-├── styles.css   (inline in this case)
-├── scripts.js   (inline in this case)
+
+├── styles.css   
+
+├── scripts.js   
+
 └── images/
     ├── img1.jpg
     ├── img2.jpg
@@ -52,5 +56,5 @@ You can also navigate manually using the left/right arrow buttons.
 
 ## 🚀 Deploy the GitHub: 
     
-   *** [Live Demo](https://akashkumar2011.github.io/JS-Image-Slider) ***
+    [Live Demo](https://akashkumar2011.github.io/JS-Image-Slider) 
 
